@@ -26,7 +26,7 @@ Input Image of an F-15
 Installation of the Dataset must be done in a directory level above the repo
 
 1. Make a housing folder for the repo. This is where you will download the kaggle dataset. An example of this could be /AircraftIdentify/repo/, with AircraftIdentify being your housing folder
-2. Download Dataset:
+2. Download Dataset in the housing folder:
 https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset
 
 2. Clone the repo inside the housing folder
