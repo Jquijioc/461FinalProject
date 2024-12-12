@@ -19,7 +19,17 @@ Input Image of an F-15
 ![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubF15.jpg)
 
 
-## Download Dataset:
+## Installation
+
+### **Important**
+
+Installation of the Dataset must be done in a directory level above the repo
+
+1. Make a housing folder for the repo. This is where you will doownload the kaggle dataset
+
+Download Dataset:
 https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset
 
-Download this in the same directory you have the repo in
+2. Clone the repo inside the housing folder
+3. Install dependencies using ``` pip install -r requirements.txt ```
+4. Run the Pretrained model in Project.ipynb. Note: If you prefer to tweak the model yourself to try out hyperparameters, you can do so in the testing.ipynb file.
