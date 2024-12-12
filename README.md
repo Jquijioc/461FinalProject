@@ -11,8 +11,8 @@ In this project, we used EfficientNet to identify military aircraft. Identificat
 
 ### Example Aircraft Prediction:
 Here is an example of the model prediction and the actual aircraft used:
+Input Image of an F-15
 
-Input picture of an F15
 ![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubF15.jpg)
 
 Heatmap Visualization and Identification:
