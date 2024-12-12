@@ -14,14 +14,14 @@ Here is an example of the model prediction and the actual aircraft used:
 
 Input Image of an F-15
 
-### Heatmap Visualization and Identification:
+**Heatmap Visualization and Identification:**
 
 ![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubF15.jpg)
 
 
 Input Image of an Su-25
 
-### Heatmap Visualization and Identification:
+**Heatmap Visualization and Identification:**
 
 ![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubSu25.jpg)
 
