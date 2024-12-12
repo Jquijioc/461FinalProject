@@ -23,7 +23,7 @@ Input Image of an Su-25
 
 ### Heatmap Visualization and Identification:
 
-![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubF15.jpg)
+![alt text](https://github.com/Jquijioc/461FinalProject/blob/main/GithubSu25.jpg)
 
 
 ## Installation
