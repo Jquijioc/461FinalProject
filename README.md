@@ -39,3 +39,7 @@ https://www.kaggle.com/datasets/a2015003713/militaryaircraftdetectiondataset
 2. Clone the repo inside the housing folder
 3. Install dependencies using ``` pip install -r requirements.txt ```
 4. Run the Pretrained model in Project.ipynb. Note: If you prefer to tweak the model yourself to try out hyperparameters, you can do so in the testing.ipynb file.
+
+## How to Run
+
+The Project.ipynb file is the file to use if you want to just try out the model with an image you have yourself locally. Simply run the notebook in your environment, and when the upload button is shown, upload your file to see the resulting prediction. Our program also shows you a heatmap of the image so you can see what the model was "looking at"
